@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 42FC-C9E3
+
+ Directory of C:\Users\RobertMcDougal\Desktop\MyProject
+
+06/15/2020  09:33 AM    <DIR>          .
+06/15/2020  09:33 AM    <DIR>          ..
+06/15/2020  09:33 AM                 0 test.1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  947,267,297,280 bytes free
